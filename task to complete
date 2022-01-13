@@ -1,0 +1,22 @@
+1. add new record in vendor and reseller
+2. get vendor details by id 
+    show: vendorname,mobilenumber, email id, shop name, gstno, profile image
+3. update record of vendor whose id is given
+4. delete reseller whose id is given
+5. update order_tacking_status of one or more order
+    tips: in body params
+            {
+            "order_id":["61d807a562ed1f33b8c76b53","61d807a562ed1f33b8c76b55"],
+            "status":"ready_for_dispatch"
+            } 
+6. get one vendor's order with given status
+    params: /:vendorid/:status
+7. following request , reject from following, reject follow request
+8. count all completed, cancel, pending count of one vendor's order with vendor name.
+    params /:vendorid
+9. reseller want to get order details by status and group with same vendor
+    tips:
+        use aggregate + group
+        params: /resellerid/status 
+        details: product_id,product_title, product_images,product description, vendor_name, shop_name, 
+10. do same for vendor
