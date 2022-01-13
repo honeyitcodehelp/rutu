@@ -1,0 +1,1503 @@
+[{
+  "_id": {
+    "$oid": "6133387d05d7671398544b94"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 1234567890,
+  "emailid": "kartik@gmail.com",
+  "vendor_name": "Kartik",
+  "shop_name": "myShop",
+  "password": "kartik",
+  "shop_address": "prime arcet",
+  "gstno": "13AAACI1681G1Z0",
+  "location": {
+    "city": "surat",
+    "state": "gujarat",
+    "pincode": 395009
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6133387d05d7671398544b95"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "6133387d05d7671398544b96"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "6133387d05d7671398544b97"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6133387d05d7671398544b98"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6133387d05d7671398544b99"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6133387d05d7671398544b9a"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "original": "shop_cover/originalSize/ratan tata.jpg",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/originalSize/ratan%20tata.jpg",
+    "reduce": "shop_cover/reduceSize/ratan tata.jpg",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/reduceSize/ratan%20tata.jpg",
+    "medium": "shop_cover/mediumSize/ratan tata.jpg",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/mediumSize/ratan%20tata.jpg",
+    "small": "shop_cover/smallSize/ratan tata.jpg",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/smallSize/ratan%20tata.jpg"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-04T09:12:29.349Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "market_place": "punagam",
+  "status": "active",
+  "is_beseller": "false",
+  "vendor_profile_img": {
+    "original": "vendor/originalSize/Screenshot (17).png",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/vendor/originalSize/Screenshot%20%2817%29.png",
+    "reduce": "vendor/reduceSize/Screenshot (17).png",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/vendor/reduceSize/Screenshot%20%2817%29.png",
+    "medium": "vendor/mediumSize/Screenshot (17).png",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/vendor/mediumSize/Screenshot%20%2817%29.png",
+    "small": "vendor/smallSize/Screenshot (17).png",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/vendor/smallSize/Screenshot%20%2817%29.png"
+  }
+},{
+  "_id": {
+    "$oid": "613338b805d7671398544b9f"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 9723234237,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "mihir",
+  "shop_name": "mihir sinchain creation",
+  "password": "vendor",
+  "shop_address": "Subh square Laldarwaja Main Rd, Patel Vadi, Patel Nagar",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "613338b805d7671398544ba0"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "613338b805d7671398544ba1"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "613338b805d7671398544ba2"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "613338b805d7671398544ba3"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "613338b805d7671398544ba4"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "613338b805d7671398544ba5"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "original": "shop_cover/originalSize/wp1828925-programmer-wallpapers.png",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/originalSize/wp1828925-programmer-wallpapers.png",
+    "reduce": "shop_cover/reduceSize/wp1828925-programmer-wallpapers.png",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/reduceSize/wp1828925-programmer-wallpapers.png",
+    "medium": "shop_cover/mediumSize/wp1828925-programmer-wallpapers.png",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/mediumSize/wp1828925-programmer-wallpapers.png",
+    "small": "shop_cover/smallSize/wp1828925-programmer-wallpapers.png",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/smallSize/wp1828925-programmer-wallpapers.png"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "613338b805d7671398544ba7"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-04T09:13:28.318Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "market_place": "punagam",
+  "status": "active",
+  "transaction_amount": 610,
+  "transaction_date": {
+    "$date": "2021-12-24T12:13:58.725Z"
+  },
+  "is_beseller": "false"
+},{
+  "_id": {
+    "$oid": "61336597a6ee6424948735ef"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 1111111111,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "testing following vendor",
+  "shop_name": "vendor ulala shop",
+  "password": "Biks00789",
+  "shop_address": "No. 603, subh square Laldarwaja Main Rd, Patel Vadi",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395007
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "61336597a6ee6424948735f0"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "61336597a6ee6424948735f1"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "61336597a6ee6424948735f2"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "61336597a6ee6424948735f3"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "61336597a6ee6424948735f4"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "61336597a6ee6424948735f5"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "original": "shop_cover/originalSize/676037.jpg",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/originalSize/676037.jpg",
+    "reduce": "shop_cover/reduceSize/676037.jpg",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/reduceSize/676037.jpg",
+    "medium": "shop_cover/mediumSize/676037.jpg",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/mediumSize/676037.jpg",
+    "small": "shop_cover/smallSize/676037.jpg",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/shop_cover/smallSize/676037.jpg"
+  },
+  "vendor_profile_img": {
+    "original": "vendor/originalSize/154123657201.jpg",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/vendor/originalSize/154123657201.jpg",
+    "reduce": "vendor/reduceSize/154123657201.jpg",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/vendor/reduceSize/154123657201.jpg",
+    "medium": "vendor/mediumSize/154123657201.jpg",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/vendor/mediumSize/154123657201.jpg",
+    "small": "vendor/smallSize/154123657201.jpg",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/vendor/smallSize/154123657201.jpg"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-04T12:24:55.728Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.818Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "transaction_amount": 13837,
+  "transaction_date": {
+    "$date": "2022-01-12T10:35:24.806Z"
+  },
+  "is_beseller": "true"
+},{
+  "_id": {
+    "$oid": "6135f774ababbf246489fc4a"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 7894561237,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "testom",
+  "shop_name": "lahenga choli for women's",
+  "password": "mihir@41",
+  "shop_address": "someth",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6135f774ababbf246489fc4b"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "6135f774ababbf246489fc4c"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "6135f774ababbf246489fc4d"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6135f774ababbf246489fc4e"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6135f774ababbf246489fc4f"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6135f774ababbf246489fc50"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "_id": {
+      "$oid": "6135f774ababbf246489fc51"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "6135f774ababbf246489fc52"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-06T11:11:48.364Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "market_place": "punagam",
+  "status": "deactive",
+  "is_beseller": "false"
+},{
+  "_id": {
+    "$oid": "6135fc918579f25ac023f76c"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 1234567891,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "Naruto",
+  "shop_name": "Bride Collection",
+  "password": "Biks00789",
+  "shop_address": "someth",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6135fc918579f25ac023f76d"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "6135fc918579f25ac023f76e"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "6135fc918579f25ac023f76f"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6135fc918579f25ac023f770"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6135fc918579f25ac023f771"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6135fc918579f25ac023f772"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "_id": {
+      "$oid": "6135fc918579f25ac023f773"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "6135fc918579f25ac023f774"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-06T11:33:37.909Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "market_place": "",
+  "status": "active",
+  "is_beseller": "false"
+},{
+  "_id": {
+    "$oid": "6135fc9a8579f25ac023f777"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 1567419635,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "mihir sinchain",
+  "shop_name": "mihirsensei's shop redchilly",
+  "password": "Biks00789",
+  "shop_address": "someth",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6135fc9a8579f25ac023f778"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "6135fc9a8579f25ac023f779"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "6135fc9a8579f25ac023f77a"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6135fc9a8579f25ac023f77b"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6135fc9a8579f25ac023f77c"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6135fc9a8579f25ac023f77d"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "_id": {
+      "$oid": "6135fc9a8579f25ac023f77e"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "6135fc9a8579f25ac023f77f"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-06T11:33:46.398Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "status": "pending",
+  "market_place": "",
+  "is_beseller": "false"
+},{
+  "_id": {
+    "$oid": "6135fca08579f25ac023f782"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 1567419638,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "mihir",
+  "shop_name": "rediant star",
+  "password": "Biks00789",
+  "shop_address": "someth",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6135fca08579f25ac023f783"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "6135fca08579f25ac023f784"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "6135fca08579f25ac023f785"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6135fca08579f25ac023f786"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6135fca08579f25ac023f787"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6135fca08579f25ac023f788"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "_id": {
+      "$oid": "6135fca08579f25ac023f789"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "6135fca08579f25ac023f78a"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-06T11:33:52.411Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "market_place": "",
+  "is_beseller": "false"
+},{
+  "_id": {
+    "$oid": "6135fca48579f25ac023f78d"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 1567419639,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "new mihir",
+  "shop_name": "Girl's Collection",
+  "password": "Biks00789",
+  "shop_address": "someth",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6135fca48579f25ac023f78e"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "6135fca48579f25ac023f78f"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "6135fca48579f25ac023f790"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6135fca48579f25ac023f791"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6135fca48579f25ac023f792"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6135fca48579f25ac023f793"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "_id": {
+      "$oid": "6135fca48579f25ac023f794"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "6135fca48579f25ac023f795"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-06T11:33:56.910Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "is_beseller": "false",
+  "market_place": ""
+},{
+  "_id": {
+    "$oid": "6135fca98579f25ac023f798"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 9033325096,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "magic men",
+  "shop_name": "Hi Creation ",
+  "password": "Biks00789",
+  "shop_address": "someth",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6135fca98579f25ac023f799"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "6135fca98579f25ac023f79a"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "6135fca98579f25ac023f79b"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6135fca98579f25ac023f79c"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6135fca98579f25ac023f79d"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6135fca98579f25ac023f79e"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "_id": {
+      "$oid": "6135fca98579f25ac023f79f"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "6135fca98579f25ac023f7a0"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-06T11:34:01.905Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "is_beseller": "false",
+  "market_place": ""
+},{
+  "_id": {
+    "$oid": "6139a1ecbae7a21dac4ea7b3"
+  },
+  "verification": {
+    "aadhar_card_verified": "accept",
+    "address_proof_verified": "accept",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": true,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 7856931231,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "Ironman",
+  "shop_name": "Tulshi Sarees",
+  "password": "mihir@41",
+  "shop_address": "someth",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6139a1ecbae7a21dac4ea7b4"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "6139a1ecbae7a21dac4ea7b5"
+    },
+    "bank_name": "sbi",
+    "bank_ifsc_code": "SBIN0011050",
+    "account_number": "SBI69327483",
+    "account_holder_name": "Mihir "
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "6139a1ecbae7a21dac4ea7b6"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6139a1ecbae7a21dac4ea7b7"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6139a1ecbae7a21dac4ea7b8"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6139a1ecbae7a21dac4ea7b9"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "_id": {
+      "$oid": "6139a1ecbae7a21dac4ea7ba"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "6139a1ecbae7a21dac4ea7bb"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [],
+  "createdAt": {
+    "$date": "2021-09-09T05:55:56.748Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "is_beseller": "false",
+  "market_place": ""
+},{
+  "_id": {
+    "$oid": "6139a1f9bae7a21dac4ea7be"
+  },
+  "verification": {
+    "aadhar_card_verified": "reject",
+    "address_proof_verified": "reject",
+    "bank_detail_verified": "accept"
+  },
+  "shop_google": [],
+  "is_mobile_verified": false,
+  "is_email_verified": false,
+  "status_verified": false,
+  "is_deleted": false,
+  "follower_user": [],
+  "ip_address": [],
+  "mobileno": 7856932569,
+  "emailid": "mihir@gam.com",
+  "vendor_name": "Captain America",
+  "shop_name": "Sarvottam Collection",
+  "password": "mihir@41",
+  "shop_address": "someth",
+  "gstno": "12AAACI1681G1Z0",
+  "location": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 395006
+  },
+  "aadhar_card": {
+    "_id": {
+      "$oid": "6139a1f9bae7a21dac4ea7bf"
+    },
+    "aadhar_card_number": 831132382823,
+    "DOB": {
+      "$date": "2000-02-20T00:00:00Z"
+    },
+    "aadhar_card_name": "Mihir Sidhdhapura updated"
+  },
+  "bank_detail": {
+    "_id": {
+      "$oid": "618f87314a33e4b29890e627"
+    },
+    "bank_name": "BOB",
+    "bank_ifsc_code": "BOBIDOMA785",
+    "account_number": "BOB7821523181",
+    "account_holder_name": "Mihir is always awesome"
+  },
+  "cancel_check_img": {
+    "_id": {
+      "$oid": "618f87314a33e4b29890e629"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capt...",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Captur...",
+    "medium": "customer/mediumSizSe/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Captur...",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture..."
+  },
+  "address_proof_img": {
+    "_id": {
+      "$oid": "6139a1f9bae7a21dac4ea7c2"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_front_img": {
+    "_id": {
+      "$oid": "6139a1f9bae7a21dac4ea7c3"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "aadhar_card_back_img": {
+    "_id": {
+      "$oid": "6139a1f9bae7a21dac4ea7c4"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "shop_cover_img": {
+    "_id": {
+      "$oid": "6139a1f9bae7a21dac4ea7c5"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "vendor_profile_img": {
+    "_id": {
+      "$oid": "6139a1f9bae7a21dac4ea7c6"
+    },
+    "original": "customer/originalSize/Capture11.PNG",
+    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/originalSize/Capture11.PNG",
+    "reduce": "customer/reduceSize/Capture11.PNG",
+    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/reduceSize/Capture11.PNG",
+    "medium": "customer/mediumSize/Capture11.PNG",
+    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/mediumSize/Capture11.PNG",
+    "small": "customer/smallSize/Capture11.PNG",
+    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/customer/smallSize/Capture11.PNG"
+  },
+  "rejected_list": [
+    {
+      "_id": {
+        "$oid": "618caed1b5006d22a501b50d"
+      },
+      "rejected_type": "aadhar",
+      "rejected_reason": "no show properly image here"
+    },
+    {
+      "_id": {
+        "$oid": "618cb005b5006d22a501b56f"
+      },
+      "rejected_type": "address",
+      "rejected_reason": "rent agremment is wrong"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-09T05:56:09.394Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-13T01:00:00.790Z"
+  },
+  "__v": 0,
+  "status": "pending",
+  "is_beseller": "false"
+}]
